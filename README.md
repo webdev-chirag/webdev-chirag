@@ -35,14 +35,21 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=webdev-chirag&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=webdev-chirag&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdev-chirag&layout=compact&theme=tokyonight" />
-</p>
+  <!-- Top stats: GitHub Stats + Streak -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=webdev-chirag&show_icons=true&theme=tokyonight" 
+         width="45%" height="180em" alt="GitHub Stats" />
+    <img src="https://streak-stats.demolab.com?user=webdev-chirag&theme=tokyonight" 
+         width="48%" height="180em" alt="GitHub Streak" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdev-chirag&layout=compact&theme=tokyonight" 
+         width="45%" alt="Top Languages" />
+  </div>
+
+</div>
 
 ---
 
@@ -64,6 +71,5 @@ I’m also a huge anime fan — stories like *Attack on Titan*, *Demon Slayer*, 
 Lately, I’ve been diving into self-improvement books like *Atomic Habits* and experimenting with new tech ideas.
 
 ---
-
 
 🧑‍💻 *“Code. Create. Contribute.”*
