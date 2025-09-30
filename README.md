@@ -35,20 +35,14 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=webdev-chirag&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=webdev-chirag&theme=tokyonight" />
+</p>
 
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=webdev-chirag&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-    <img height="180em" src="https://streak-stats.demolab.com?user=webdev-chirag&theme=tokyonight" alt="GitHub streak" />
-  </div>
-
-  <br/>
-
-  <div>
-    <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdev-chirag&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </div>
-
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdev-chirag&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -58,6 +52,7 @@
 ---
 
 ### 🤝 Connect with Me  
+<!-- not showing logo if linkedin is not present -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/parmar-chirag)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=firefox)](https://chirag-parmar.vercel.app) 
 
@@ -69,5 +64,6 @@ I’m also a huge anime fan — stories like *Attack on Titan*, *Demon Slayer*, 
 Lately, I’ve been diving into self-improvement books like *Atomic Habits* and experimenting with new tech ideas.
 
 ---
+
 
 🧑‍💻 *“Code. Create. Contribute.”*
