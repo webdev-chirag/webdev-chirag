@@ -35,14 +35,20 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=webdev-chirag&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=webdev-chirag&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdev-chirag&layout=compact&theme=tokyonight" />
-</p>
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=webdev-chirag&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+    <img height="180em" src="https://streak-stats.demolab.com?user=webdev-chirag&theme=tokyonight" alt="GitHub streak" />
+  </div>
+
+  <br/>
+
+  <div>
+    <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdev-chirag&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </div>
+
+</div>
 
 ---
 
