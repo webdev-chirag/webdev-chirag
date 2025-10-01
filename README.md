@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Developer | Laravel • React • Next.js • Node.js**  
 💻 Passionate about crafting scalable web apps and smooth user experiences.  
-🌏 Based in India 🇮🇳  
+<!-- 🌏 Based in India 🇮🇳  -->
 
 ---
 
